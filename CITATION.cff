@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this research artifact, please cite it using this metadata."
+title: "Episode-Aware Power Grid Cyberattack Detection"
+type: software
+authors:
+  - family-names: "Hossain"
+    given-names: "Junaid"
+version: 2.0.0
+date-released: 2026-09-17
+abstract: "A reproducible synthetic pilot benchmark for group-aware detection of cyberattack-like events in smart-grid telemetry."
+keywords:
+  - smart grid
+  - cyber-physical security
+  - false data injection
+  - reproducible machine learning

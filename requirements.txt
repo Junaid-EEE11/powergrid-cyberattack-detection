@@ -1,0 +1,6 @@
+# Runtime dependencies. Version ranges are tested by the CI workflow.
+numpy>=1.26,<3
+pandas>=2.1,<4
+matplotlib>=3.8,<4
+scikit-learn>=1.4,<2
+joblib>=1.3,<2
